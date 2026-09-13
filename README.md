@@ -66,4 +66,4 @@ Vercel معمولاً سریع‌تر و بی‌دردسرتره؛ GitHub Pages 
 - **دسترسی به میکروفون:** روی GitHub Pages / Vercel (چون HTTPS هستن) میکروفون به‌درستی کار می‌کنه. اگه لوکال تست می‌کنی، `localhost` هم مشکلی نداره.
 =======
 # french-pronunciation-coach
->>>>>>> 26a95fac59c60390f82ce3ee351c04875160ad98
+https://sataban.github.io/french-pronunciation-coach/
